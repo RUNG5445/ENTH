@@ -19,7 +19,7 @@ The application provides a user-friendly interface with features such as clear t
 
 ## Author
 
-[Rungrueng Janrueng](https://github.com/RUNG544)
+[Rungrueng Janrueng](https://github.com/RUNG5445)
 
 ## License
 
