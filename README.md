@@ -16,10 +16,9 @@ The application provides a user-friendly interface with features such as clear t
 4. Use the "Clear" button to clear both input and output textareas.
 5. To copy the converted text to the clipboard, click the "Copy" button.
 
+## Authors
 
-## Author
-
-[Rungrueng Janrueng](https://github.com/RUNG5445)
+- [Rungrueng Janrueng](https://github.com/RUNG5445)
 
 ## License
 
