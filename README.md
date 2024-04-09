@@ -1,35 +1,25 @@
 # Text Language Converter
 
-This is a simple web tool for converting text between English and Thai languages. You can input text in one language and get the corresponding text in the other language.
+A simple web application that converts text between English and Thai languages.
+
+## Description
+
+The Text Language Converter is a web-based tool that allows users to input text in either English or Thai languages and converts it to the other language. It is useful for individuals who frequently switch between English and Thai languages and may forget to change the input language while typing.
+
+The application provides a user-friendly interface with features such as clear text input, copy to clipboard, and automatic conversion as the user types. It also includes a toggle button to switch between English and Thai input modes.
 
 ## How to Use
 
-1. Input or paste your text into the "Input Text" area.
-2. The converted text will appear in the "Output Text" area automatically.
-3. Use the "Clear" button to clear both input and output areas.
-4. Use the "Toggle Language" button to switch between English and Thai languages.
+1. Visit the [live demo](#) of the Text Language Converter.
+2. Start typing or paste your text into the "Input Text" textarea.
+3. The converted text will appear in the "Output Text" textarea automatically.
+4. Use the "Clear" button to clear both input and output textareas.
+5. To copy the converted text to the clipboard, click the "Copy" button.
 
-## Features
-
-- Real-time conversion as you type.
-- Clear button to erase input and output.
-- Easy toggling between English and Thai languages.
-
-## Usage
-
-You can use this tool for various purposes, including:
-
-- Learning Thai or English language.
-- Converting text for communication.
-- Correcting text language errors.
-
-## Feedback
-
-If you encounter any issues or have suggestions for improvements, please feel free to open an issue or pull request.
 
 ## Author
 
-[Your Name or Username](https://github.com/yourusername)
+[Rungrueng Janrueng](https://github.com/RUNG544)
 
 ## License
 
