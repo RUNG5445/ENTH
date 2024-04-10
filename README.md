@@ -10,7 +10,7 @@ The application provides a user-friendly interface with features such as clear t
 
 ## How to Use
 
-1. Visit the [live demo](https://en2th.rungrueng.site/) of the Text Language Converter.
+1. Visit the [live demo](https://enth.rungrueng.site/) of the Text Language Converter.
 2. Start typing or paste your text into the "Input Text" textarea.
 3. The converted text will appear in the "Output Text" textarea automatically.
 4. Use the "Clear" button to clear both input and output textareas.
